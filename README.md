@@ -16,7 +16,7 @@ This analysis will allow us to analyze the slant (or bias) of media articles, as
 
 #Data
 
-I used data from [All Sides](https://www.allsides.com/unbiased-balanced-news) to extract stories, relevant articles, information related to the articles, and the bias for each source. We also used the news-please API to extract information related to the articles, such as the text and the author.
+I used data from [All Sides](https://www.allsides.com/unbiased-balanced-news) to extract stories, relevant articles, information related to the articles, and the bias for each source. We also used the [news-please](https://github.com/fhamborg/news-please) API to extract information related to the articles, such as the text and the author.
 
 # Enviroment and Tools
 
