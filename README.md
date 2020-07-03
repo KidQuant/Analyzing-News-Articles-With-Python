@@ -2,7 +2,7 @@
 
 Using Web Scraping, Data Science and Machine Learning techniques to conduct sentiment analysis on news articles using Google's Natural Language Processing API.
 
-![Featured Image](/post/images/featured_news_project.jpg)
+![Featured Image](https://kidquant.com/post/images/featured_news_project.jpg)
 
 # Goal
 
